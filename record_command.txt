@@ -6,3 +6,4 @@ git add sum_Prime.cpp
 git add sum_Prime.exe
 git commit -m "Add sum_Prime file"
 git push origin master
+waht
