@@ -1,8 +1,6 @@
 git branch practice-create-branch
 git checkout practice-create-branch
 git push -u origin practice-create-branch
-git add CountMaxNumberInArray.cpp
-git add CountMaxNumberInArray.exe
-git add record_command_2.txt
+git add .
 git commit -m "Add file to branch"
 git push1
