@@ -5,4 +5,4 @@ git add CountMaxNumberInArray.cpp
 git add CountMaxNumberInArray.exe
 git add record_command_2.txt
 git commit -m "Add file to branch"
-git push
+git push1
